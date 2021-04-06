@@ -155,7 +155,7 @@ if __name__ == "__main__":
         for y in range(input_image_2.height):
              
             if output_image.getpixel((x,y))==(255,255,255):
-                print(output_image.getpixel((x,y)))
+                #print(output_image.getpixel((x,y)))
                 input_image_2.putpixel((x,y), (255,0,0)) 
      
 
@@ -166,3 +166,5 @@ if __name__ == "__main__":
     
     output_image.save("Edge.png")
     input_image_2.save("circle_2.png")
+    
+    print(1)
