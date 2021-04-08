@@ -5,7 +5,7 @@ Demonstration videos:
 
 https://www.youtube.com/watch?v=MQEVJdqsswA
 
-https://www.youtube.com/watch?v=8yTe7XAq9ds
+https://www.youtube.com/watch?v=8yTe7XAq9ds  (changed the code a bit to show up the edge of subject)
 
 
 # installation process
